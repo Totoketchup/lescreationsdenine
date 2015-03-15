@@ -36,44 +36,26 @@
 					<li role="presentation"><a role="menuitem" tabindex="-1" href="#">100</a></li>
 				</ul>
 			</div>
-			
-			<div class="col-sm-6 col-md-4">
-				<div class="thumbnail">
-					<div class="left_block">
-						<a href="#" title="produit">
-							<img src="images/test.jpg" alt="">
-							<span class="new"><img src="images/new.png"></span>	 
-						</a>
-					</div>
-					<div class="caption">
-						<h3>Nom du produit</h3>
-						<p>...</p>
-						<p><a href="#" class="btn btn-primary" role="button">
-							Ajouter au panier 
-							<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a>
-						</div>
-					</div>
-				</div>
 
-				<?php
-				try
-				{
-					$bdd = new PDO('mysql:host=localhost;dbname=nine;charset=utf8', 'root', '');
-				}
-				catch (Exception $e)
-				{
-					die('Erreur : ' . $e->getMessage());
-				}
-
-				
-				$reponse = $bdd->query("SELECT * FROM ARTICLES ");
-				$tot = $reponse->rowCount();
+			<?php
+			try
+			{
+				$bdd = new PDO('mysql:host=localhost;dbname=nine;charset=utf8', 'root', '');
+			}
+			catch (Exception $e)
+			{
+				die('Erreur : ' . $e->getMessage());
+			}
 
 
-				if(isset($_GET['epp'])){
+			$reponse = $bdd->query("SELECT * FROM ARTICLES ");
+			$tot = $reponse->rowCount();
+
+
+			if(isset($_GET['epp'])){
 					$epp = intval($_GET['epp']); // Nombre d'articles par pages
 				} else {
-					$epp = 10;
+					$epp = 9;
 				}
 
 				$nbPages = ceil($tot/$epp);
@@ -90,14 +72,12 @@
 					}
 				}
 				
-				$start = $epp*($current-1);
-				$end = $start+$epp;
-
-				echo $start ;
-				echo $end;
+				$start = $epp*$current;
+				
+				echo $start;
 				$reponse->closeCursor(); // Termine le traitement de la requête
 
-				$reponse =  $bdd->query("SELECT * FROM ARTICLES LIMIT $start, $end");
+				$reponse =  $bdd->query("SELECT * FROM ARTICLES LIMIT $start,$epp");
 				
 				while ($donnees = $reponse->fetch())
 				{
@@ -132,34 +112,35 @@ $reponse->closeCursor(); // Termine le traitement de la requête
 ?>
 
 </div>
-</div>
 
 <nav>
-	<ul class="pagination">
-		
-		<?php 
-		if($page > 1) {
+	<div class="text-center">
+		<ul class="pagination" style=center>
+			<?php 
+			$url=strtok($_SERVER["REQUEST_URI"],'?');
+
+			if($current > 1) {
 				?>
 				<li>
-					<a href="#" aria-label="Previous">
+					<a href=<?php ?> aria-label="Previous">
 						<span aria-hidden="true">&laquo;</span>
 					</a>
 				</li>
 				<?php
 			}
-		for ($i=1; $i <= $nbPages; $i++) { 
-			
-			if ($i == $page) {
-				?>
-				<li class="active"><a href="#"><?php echo $i?></a></li>
-				<?php
-			} else {
-				?>
-				<li><a href=""><?php echo $i?></a></li>
-				<?php
+			for ($i=1; $i <= $nbPages; $i++) { 
+
+				if ($i == $current) {
+					?>
+					<li class="active"><a href="#"><?php echo $i?></a></li>
+					<?php
+				} else {
+					?>
+					<li><a href=<?php echo $url."?page=".$i."&epp=".$epp ?> ><?php echo $i?></a></li>
+					<?php
+				}
 			}
-		}
-		if($page<$o){
+			if($current<$nbPages){
 				?>
 				<li>
 					<a href="#" aria-label="Next">
@@ -168,10 +149,15 @@ $reponse->closeCursor(); // Termine le traitement de la requête
 				</li>
 				<?php
 			}
-		?>
+			?>
 
-	</ul>
+		</ul>
+	</div>
 </nav>
+</div>
+
+
+
 
 
 

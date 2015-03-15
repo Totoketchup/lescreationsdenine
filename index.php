@@ -24,6 +24,7 @@
 	<div class="container-fluid">
 		<div class="row">
 
+			
 			<div class="dropdown">
 				<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
 					Articles par pages
@@ -36,6 +37,7 @@
 					<li role="presentation"><a role="menuitem" tabindex="-1" href="#">100</a></li>
 				</ul>
 			</div>
+
 
 			<?php
 			try
@@ -74,7 +76,6 @@
 				
 				$start = $epp*$current;
 				
-				echo $start;
 				$reponse->closeCursor(); // Termine le traitement de la requête
 
 				$reponse =  $bdd->query("SELECT * FROM ARTICLES LIMIT $start,$epp");

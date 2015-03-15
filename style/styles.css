@@ -1,0 +1,138 @@
+.presentation {
+	margin: 0px;
+	padding: 0px;
+
+	font-size: 25px; 
+
+	background-color: #0099CC;
+
+	line-height: 100px;
+	text-align: center;
+
+
+	font-family: "Curlz MT";
+	font-size: 55px;
+	color: white;
+
+	/*src: url(http://www.fonts2u.com/learning-curve.ttf) format("truetype");*/
+
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+
+
+
+.alert {
+	text-align: center;
+	border-radius: 20px;
+}
+
+
+
+
+.container-fluid {
+	max-width: 1000px;
+}
+
+#container-nav{
+	padding-top: 50px;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #0099CC;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: white; /*BACKGROUND color for active*/
+	background-color: #030033;
+}
+
+/*-- change navbar dropdown color --*/
+.navbar-default .navbar-nav .open .dropdown-menu>li>a,.navbar-default .navbar-nav .open .dropdown-menu {
+	background-color: #FF99CC;
+	color:#ffffff;
+}
+
+.navbar-default {
+	background-color: #FF99CC;
+	border-color: #FF99CC;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+	color: #262626;
+	text-decoration: none;
+	background-color: #66CCFF;  /*change color of links in drop down here*/
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+	text-decoration: none;
+	background-color: silver; /*Change rollover cell color here*/
+}
+
+
+.navbar-default .navbar-nav > li > a {
+	color: white; /*Change active text color here*/
+}
+
+
+/* Thumbnails */
+
+.new{
+	text-align: center;
+	width: 60px;
+	height: 60px;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	line-height: 60px;
+	bottom: 0;
+	right: 0;
+}
+
+.add-whishlist{
+	text-align: center;
+	width: 60px;
+	height: 60px;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	line-height: 60px;
+	top: 0;
+	right: 0;
+}
+
+.left_block{
+	position: relative;
+	display: inline-block;
+}
+/* FOOOOTER */
+
+.footer {
+	background-color: #0099CC;
+}
+
+.thumbnail a > img {
+	margin-right: none;
+	margin-left: none;
+}
+
+.thumbnail {
+	padding: 30px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 20px;
+}
+
+.container{
+	margin:auto;
+}

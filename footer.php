@@ -27,4 +27,13 @@
 				</div>
 			</div>
 		</div>
-	</div></div>
+	</div>
+
+</div>
+
+<script src="bootstrap/js/jquery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="javascript/velocity.min.js"></script>
+<script src="javascript/animation.js"></script>
+<script src="javascript/contact.js"></script>
+<script src="//raw.github.com/botmonster/jquery-bootpag/master/lib/jquery.bootpag.min.js"></script>

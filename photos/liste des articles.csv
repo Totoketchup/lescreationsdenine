@@ -1,0 +1,66 @@
+nom;couleur;stock;prix;description;hauteur;profondeur;largeur
+sac à dos maternelle;pirate;2;25;sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles;25;8;20
+sac à dos maternelle;dinosaure;2;25;sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles;25;8;20
+sac à dos maternelle;jaune;2;25;sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles;25;8;20
+sac à dos maternelle;rose et vert;2;25;sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles;25;8;20
+trousse d'école plate doublée;jaune;0;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;grise étoile bleue;1;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;grise étoile jaune;1;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;bleu ciel pois blanc;1;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;rouge pois blanc;0;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;bleu marine pois blanc;0;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;fushia pois blanc;0;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;rose;0;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école plate doublée;moustache;1;10;en coton enduit doublée de coton;11,5;0;23
+trousse d'école quadri;jaune;1;7;en coton enduit;5;6;19
+trousse d'école quadri;rose;2;7;en coton enduit;5;6;19
+trousse d'école quadri;grise étoile jaune;0;7;en coton enduit;5;6;19
+trousse d'école quadri;moustache;1;7;en coton enduit;5;6;19
+trousse d'école quadri;bleu ciel;0;7;en coton enduit;5;6;19
+trousse d'école quadri;rouge;0;7;en coton enduit;5;6;19
+trousse d'école quadri;pirate;0;7;en coton enduit;5;6;19
+trousse d'école quadri;dinosaure;0;7;en coton enduit;5;6;19
+trousse de toilette ;lin blanc;0;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;lin beige;0;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;liberty noir fleur rose;1;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;bleu marine pois blanc;0;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;moustache;0;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;fushia pois blanc;0;15;en coton doublé;11,5;11,5;5
+trousse de toilette ;rose;1;15;en coton doublé;11,5;11,5;5
+trousse maquillage petite;bleu marine pois blanc;1;10;en coton thermocollé et doublé;9,5;4,5;14
+trousse maquillage petite;lin blanc;0;10;en lin thémocollé et doublé;9,5;4,5;14
+trousse maquillage petite;lin beige;0;10;en lin thermocollé et doublé;9,5;4,5;14
+trousse maquillage petite;fushia pois blanc;0;10;en coton thermocollé et doublé;9,5;4,5;14
+trousse maquillage petite;liberty noir;;10;en coton thermocollé et doublé;9,5;4,5;14
+trousse maquillage petite;girly;;10;en coton thermocollé et doublé;9,5;4,5;14
+grand porte monnaie porte cartes;fushia étoile bleu;2;10;en coton enduit ;11,5;0;14,5
+grand porte monnaie porte cartes;gris étoie jaune;1;10;en coton enduit ;11,5;0;14,5
+grand porte monnaie porte cartes;bleu ciel pois blanc;1;10;en coton enduit ;11,5;0;14,5
+grand porte monnaie porte cartes;rose;1;10;en coton enduit ;11,5;0;14,5
+petit porte monnaie porte carte;lin blanc;1;6;en lin;10,5;0;7,5
+petit porte monnaie porte carte;lin beige;0;6;en lin;10,5;0;7,5
+petit porte monnaie porte carte;lin bicolore;0;6;en lin;10,5;0;7,5
+petit porte monnaie porte carte;moustache;1;6;en coton enduit;10,5;0;7,5
+petit porte monnaie porte carte;fushia pois blanc;1;6;en coton thermocollé;10,5;0;7,5
+petit porte monnaie porte carte;gris étoile jaune;1;6;en coton enduit;10,5;0;7,5
+petit porte monnaie porte carte;bleu marine à pois blanc;0;6;en coton thermocollé;10,5;0;7,5
+petit porte monnaie porte carte;girly;0;6;en coton thermocollé;10,5;0;7,5
+trousse de maquillage moyenne;lin blanc;1;12;en lin thermocollé doublé coton;13,5;7;17
+trousse de maquillage moyenne;lin beige;0;12;en lin thermocollé doublé coton;13,5;7;17
+trousse de maquillage moyenne;bleu marine pois blanc;0;12;en lin thermocollé doublé coton;13,5;7;17
+trousse de maquillage moyenne;fushia pois blanc;0;12;en lin thermocollé doublé coton;13,5;7;17
+trousse de maquillage moyenne;liberty noir ;0;12;en lin thermocollé doublé coton;13,5;7;17
+trousse de maquillage moyenne;girly;0;12;en lin thermocollé doublé coton;13,5;7;17
+sac à main petite fille petit format;fushia pois blanc;1;5;en coton doublé ;12;4;13
+sac à main petite fille petit format;liberty noir fleurs roses;1;5;en coton doublé ;12;4;13
+sac à main petite fille petit format;bleu ciel et rose;1;8;en doudou doublé coton;12;4;13
+sac à main petite fille ;bleu ciel et rose;1;10;en doudou doublé coton;17;5;20
+sac à main petite fille ;bleu pois blanc;1;8;en jean doublé coton;17;5;20
+sac bandoulière;liberty noir fleurs roses;1;25;en coton doublé coton avec poche intérieure ;18,5;8;26,5
+sac à main ;fleurs multicolores;2;25;en coton doublé coton avec poche intérieure;18,5;8;26,5
+trousse de rangement bijoux;girly;1;12;en coton thermocollé doublé coton;16;;19,5
+trousse de rangement bijoux;lin blanc;0;12;en coton thermocollé doublé coton;16;;19,5
+trousse de rangement bijoux;lin beige;1;12;en coton thermocollé doublé coton;16;;19,5
+trousse de rangement bijoux;fushia à pois blanc;0;12;en coton thermocollé doublé coton;16;;19,5
+trousse de rangement bijoux;marine à pois blanc;0;12;en coton thermocollé doublé coton;16;;19,5
+trousse de rangement bijoux;;0;12;en coton thermocollé doublé coton;16;;19,5

@@ -1,0 +1,89 @@
+dénomination	coloris	stock	prix	description	hauteur	profondeur	largeur
+sac à dos maternelle	pirate	2	€25,00 	sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles	25,00	8,00	20,00
+sac à dos maternelle	dinosaure	2	€25,00 	sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles	25,00	8,00	20,00
+sac à dos maternelle	jaune	2	€25,00 	sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles	25,00	8,00	20,00
+sac à dos maternelle	rose et vert	2	€25,00 	sac à dos en coton entoilé entièrement doublé avec une poche sur le devant fermée par une pression, une poignée et deux bretelles	25,00	8,00	20,00
+trousse d'école plate doublée	jaune	0	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	grise étoile bleue	1	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	grise étoile jaune	1	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	bleu ciel pois blanc	1	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	rouge pois blanc	0	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	bleu marine pois blanc	0	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	fushia pois blanc	0	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	rose	0	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école plate doublée	moustache	1	€10,00 	en coton enduit doublée de coton	11,50	0,00	23,00
+trousse d'école quadri	jaune	1	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	rose	2	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	grise étoile jaune	0	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	moustache	1	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	bleu ciel	0	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	rouge	0	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	pirate	0	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse d'école quadri	dinosaure	0	€7,00 	en coton enduit	5,00	6,00	19,00
+trousse de toilette 	lin blanc	0	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	lin beige	0	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	liberty noir fleur rose	1	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	bleu marine pois blanc	0	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	moustache	0	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	fushia pois blanc	0	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse de toilette 	rose	1	€15,00 	en coton doublé	11,50	11,50	5,00
+trousse maquillage petite	bleu marine pois blanc	1	€10,00 	en coton thermocollé et doublé	9,50	4,50	14,00
+trousse maquillage petite	lin blanc	0	€10,00 	en lin thémocollé et doublé	9,50	4,50	14,00
+trousse maquillage petite	lin beige	0	€10,00 	en lin thermocollé et doublé	9,50	4,50	14,00
+trousse maquillage petite	fushia pois blanc	0	€10,00 	en coton thermocollé et doublé	9,50	4,50	14,00
+trousse maquillage petite	liberty noir		€10,00 	en coton thermocollé et doublé	9,50	4,50	14,00
+trousse maquillage petite	girly		€10,00 	en coton thermocollé et doublé	9,50	4,50	14,00
+grand porte monnaie porte cartes	fushia étoile bleu	2	€10,00 	en coton enduit 	11,50	0,00	14,50
+grand porte monnaie porte cartes	gris étoie jaune	1	€10,00 	en coton enduit 	11,50	0,00	14,50
+grand porte monnaie porte cartes	bleu ciel pois blanc	1	€10,00 	en coton enduit 	11,50	0,00	14,50
+grand porte monnaie porte cartes	rose	1	€10,00 	en coton enduit 	11,50	0,00	14,50
+petit porte monnaie porte carte	lin blanc	1	€6,00 	en lin	10,50	0,00	7,50
+petit porte monnaie porte carte	lin beige	0	€6,00 	en lin	10,50	0,00	7,50
+petit porte monnaie porte carte	lin bicolore	0	€6,00 	en lin	10,50	0,00	7,50
+petit porte monnaie porte carte	moustache	1	€6,00 	en coton enduit	10,50	0,00	7,50
+petit porte monnaie porte carte	fushia pois blanc	1	€6,00 	en coton thermocollé	10,50	0,00	7,50
+petit porte monnaie porte carte	gris étoile jaune	1	€6,00 	en coton enduit	10,50	0,00	7,50
+petit porte monnaie porte carte	bleu marine à pois blanc	0	€6,00 	en coton thermocollé	10,50	0,00	7,50
+petit porte monnaie porte carte	girly	0	€6,00 	en coton thermocollé	10,50	0,00	7,50
+trousse de maquillage moyenne	lin blanc	1	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+trousse de maquillage moyenne	lin beige	0	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+trousse de maquillage moyenne	bleu marine pois blanc	0	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+trousse de maquillage moyenne	fushia pois blanc	0	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+trousse de maquillage moyenne	liberty noir 	0	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+trousse de maquillage moyenne	girly	0	€12,00 	en lin thermocollé doublé coton	13,50	7,00	17,00
+sac à main petite fille petit format	fushia pois blanc	1	€5,00 	en coton doublé 	12,00	4,00	13,00
+sac à main petite fille petit format	liberty noir fleurs roses	1	€5,00 	en coton doublé 	12,00	4,00	13,00
+sac à main petite fille petit format	bleu ciel et rose	1	€8,00 	en doudou doublé coton	12,00	4,00	13,00
+sac à main petite fille 	bleu ciel et rose	1	€10,00 	en doudou doublé coton	17,00	5,00	20,00
+sac à main petite fille 	bleu pois blanc	1	€8,00 	en jean doublé coton	17,00	5,00	20,00
+sac bandoulière	liberty noir fleurs roses	1	€25,00 	en coton doublé coton avec poche intérieure 	18,50	8,00	26,50
+sac à main 	fleurs multicolores	2	€25,00 	en coton doublé coton avec poche intérieure	18,50	8,00	26,50
+trousse de rangement bijoux	girly	1	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+trousse de rangement bijoux	lin blanc	0	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+trousse de rangement bijoux	lin beige	1	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+trousse de rangement bijoux	fushia à pois blanc	0	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+trousse de rangement bijoux	marine à pois blanc	0	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+trousse de rangement bijoux		0	€12,00 	en coton thermocollé doublé coton	16,00		19,50
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

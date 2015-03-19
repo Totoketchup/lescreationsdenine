@@ -115,12 +115,25 @@ a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	display: inline-block;
 }
 /* FOOOOTER */
-
-.footer {
-	background-color: #0099CC;
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
 }
 
-.thumbnail a > img {
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+/*.thumbnail a > img {
 	margin-right: none;
 	margin-left: none;
 }
@@ -131,10 +144,31 @@ a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: 20px;
+	min-height:400px; 
+	height:450px; 
 }
 
-.thumbnail  { min-height:400px; height:500px; }
+.thumbnail img { }*/
+
+.btn-product{
+	width: 100%;
+}
+
+.thumbnail {
+	height: 410px;
+}
 
 .container{
 	margin:auto;
 }
+
+/* Pour l'article */
+/*
+.carousel {
+	float:left;
+	width: 70%
+}
+
+
+
+/* TEST PRESENTATION */

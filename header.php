@@ -23,9 +23,8 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-
 					<ul class="nav navbar-nav">
-						<li  ><a href="history.php">Accueil</a></li>
+						<li  ><a href="index.php">Accueil</a></li>
 						<li class="dropdown" >
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Les Collections<span class="caret"></span><span class="badge" style="margin-left:5px;display">5</span></a>
 							<ul class="dropdown-menu" role="menu">
@@ -46,7 +45,7 @@
 
 
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="contact.php" target="_blank">Contact</a></li>
+						<li><a href="panier.php" >Panier</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Plus ...<span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">

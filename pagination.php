@@ -20,7 +20,7 @@
 					<?php
 				} else {
 					?>
-					<li><a href=<?php echo $url."?page=".$i."&epp=".$epp ?> ><?php echo $i?></a></li>
+					<li><a href=<?php echo $url."?page=".$i."&epp=".$epp."&tri=".$tri."&s=".$sens ?> ><?php echo $i?></a></li>
 					<?php
 				}
 			}

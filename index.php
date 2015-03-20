@@ -1,6 +1,3 @@
-<?
-require_once("tools/functions.php");
-?>
 
 <!DOCTYPE html>
 <html>
